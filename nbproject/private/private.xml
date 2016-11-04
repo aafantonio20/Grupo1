@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/nuevareservaomodificada.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/nuevaventa.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/gestionproductos.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/GrabarReserva.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/EliminarProducto.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/vinos.html</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/VerDetalleVenta.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/gestionpedidos.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/inicio_sesion.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/gestion_productos.html</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/inicio_sesion_again.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/GrabarReservaModificada.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/nuevoproductomodificado2.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/nuevoproducto2.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/verdetallepedido.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/VerDetalleProducto.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/verreserva.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/reservas_enviado.html</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/model/GestionDAO.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/modificarproducto.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/index.html</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/nuevoproducto.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/ObtenerProductos.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/verproducto.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/model/Cliente.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/model/Reserva.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/ModificarReserva.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/gestionpedidos2.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/VerDetalleReserva.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/ObtenerReservas.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/gestionreservas3.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/ModificarProducto.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/gestionreservas.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/gestionproductos2.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/model/DetalleVenta.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/lacarta.html</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/reservas.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/reservas.html</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/reservaguardada.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/bienvenido.html</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/mibarranco.html</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/GuardarProducto.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/cartaactiva.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/GuardarProductoModificado.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/modificarreserva.jsp</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/src/java/pe/edu/ulima/servlets/EliminarReserva.java</file>
+            <file>file:/C:/Users/juancarlos/Documents/Login/Login/web/nuevosubproducto.jsp</file>
+        </group>
+    </open-files>
+</project-private>

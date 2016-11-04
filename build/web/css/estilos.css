@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/02/2016, 08:49:46 PM
+    Author     : juancarlos
+*/
+
+.color_fondo{
+
+    background: rgba(52,1,18,1);
+    background: -moz-linear-gradient(top, rgba(52,1,18,1) 0%, rgba(121,36,2,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(52,1,18,1)), color-stop(100%, rgba(121,36,2,1)));
+    background: -webkit-linear-gradient(top, rgba(52,1,18,1) 0%, rgba(121,36,2,1) 100%);
+    background: -o-linear-gradient(top, rgba(52,1,18,1) 0%, rgba(121,36,2,1) 100%);
+    background: -ms-linear-gradient(top, rgba(52,1,18,1) 0%, rgba(121,36,2,1) 100%);
+    background: linear-gradient(to bottom, rgba(52,1,18,1) 0%, rgba(121,36,2,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#600a0b', endColorstr='#551213', GradientType=0 );
+
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border: 1px solid #713137;
+
+}
+
+.fondo-imagen{
+        width: 100%;
+        height: 200px;
+    	background-image: url("banner-logo.jpg");
+}
+
+.color_lacarta{
+    color: #9c917a;
+    padding: 0 20px 0 20px;
+    margin: 0 0 0 0;
+}
+.color_titulo_menu{
+    color: #FF9900;
+    font-size: 20px;
+    padding: 0 20px 0 20px;
+    margin: 0 0 0 0;
+}
+
+
